@@ -9,7 +9,7 @@ derived from my
 ### ...for offline viewers
 
 1. Download _Source Code (zip)_ of
-   [latest release](https://github.com/bkimminich/webappsec-nutshell/releases/latest)
+   [latest release](https://github.com/d-oderbolz/webappsec-nutshell/releases/latest)
 2. Unpack ```<version>.zip``` to disk
 3. ```$ cd webappsec-nutshell```
 4. Open ```index.html``` with your favorite browser
