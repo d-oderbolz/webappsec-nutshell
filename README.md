@@ -6,11 +6,6 @@ derived from my
 
 ## Setup...
 
-### ...for online viewers
-
-1. Open <http://webappsec-nutshell.kimminich.de/>
-2. Done!
-
 ### ...for offline viewers
 
 1. Download _Source Code (zip)_ of
@@ -26,7 +21,7 @@ derived from my
 2. Install
    [Grunt](http://gruntjs.com/getting-started#installing-the-cli)
 3. ```$ git clone
-   https://github.com/bkimminich/webappsec-nutshell.git```
+   https://github.com/d-oderbolz/webappsec-nutshell.git```
 4. ```$ cd webappsec-nutshell```
 5. ```$ npm install```
 6. ```$ grunt serve```
@@ -40,7 +35,7 @@ derived from my
 2. Done! No fancy paralax background for you, though... :-)
 
 ## Credits
-
+- Foreked from Björn Kimminich
 - Presentation created with
   [reveal.js](https://github.com/hakimel/reveal.js)
 - Based on free material provided by the
